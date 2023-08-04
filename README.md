@@ -1,6 +1,6 @@
 # Consultor del Clima
 
-Esta es una aplicación que te permite obtener el clima actual, la temperatura mínima y máxima de una ciudad y país específico utilizando la API de "Weather API". Con WeatherApp, podrás obtener de manera rápida y sencilla la información climática que necesitas para planificar tus actividades.
+Esta es una aplicación que te permite obtener el clima actual, la temperatura mínima y máxima de una ciudad y país específico utilizando la API de "Weather API". Podrás obtener de manera rápida y sencilla la información climática que necesitas para planificar tus actividades.
 
 ## Componentes
 
